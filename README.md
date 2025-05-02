@@ -1,31 +1,79 @@
-# Hi there! 👋 I'm Raafat OSMAN
+# Raafat OSMAN 👋
 
-## About Me
+**Software Engineer | Machine Learning Engineer | Data Scientist**
 
-🚀 I'm a passionate "software/Machine learning/Data science/cloud" engineer based in France with Lebanese origins. I find joy in coding and exploring new technologies. Outside of tech, you'll find me immersed in the world of football ⚽, enjoying hikes 🏞️, and conquering cycling adventures 🚴.
-
-## Skills
-
-- **Programming Languages:** C#/.Net, Python 🐍, Java ☕, TypeScript, Kotlin
-- **Web Technologies:** Nest.js, HTML/CSS
-- **Tools:** VS Code, Visual Studio, PyCharm, Android Studio, Apache NetBeans
-
-## Projects
-
-- **Minesweeper/JAVA:** A multiplayer Minesweeper game where strategy meets fun.
-- **ToiletMergency:** An Android app with a REST API to find the nearest toilet to your location via Google Maps API.
-
-## GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaafatOS&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)
-
-## Connect with Me
-
-🔗 [LinkedIn](https://www.linkedin.com/in/raafat-osman-139351221/)
-
-## Fun Fact
-
-Did you know that I eat like a 90kg person, look like 60kg but actually weigh 70kg?
+📍 Marseille, France | 🇱🇧 Lebanese origins
 
 ---
 
-Feel free to explore my repositories and reach out! 😊
+## 📖 About Me
+
+I’m a passionate engineer with experience in software development, machine learning, data science, and cloud technologies. I love exploring new tools and frameworks, building real-world applications, and sharing knowledge.
+
+Outside of tech, I enjoy:
+- ⚽ Football
+- 🥾 Hiking
+- 🚴‍♂️ Cycling adventures
+
+---
+
+## 🚀 Skills
+
+| Domain               | Tools & Technologies                                    |
+|----------------------|---------------------------------------------------------|
+| **Languages**        | C#, .NET, Python, Java, TypeScript, Kotlin              |
+| **Web & Backend**    | Nest.js, Node.js, Express, HTML, CSS, REST APIs         |
+| **Mobile**           | Android (Kotlin), Android Studio                        |
+| **Machine Learning** | scikit-learn, TensorFlow, PyTorch, Pandas, NumPy        |
+| **Cloud & DevOps**   | AWS (Cloud Practitioner), Azure, Docker, CI/CD, Git     |
+| **Tools & IDEs**     | VS Code, Visual Studio, PyCharm, IntelliJ, Jupyter      |
+
+---
+
+## 🛠️ Projects
+
+| Project                  | Description                                                          | Tech Stack                         |
+|--------------------------|----------------------------------------------------------------------|------------------------------------|
+| [Minesweeper](https://github.com/RaafatOS/Minesweeper)             | Multiplayer Java implementation of Minesweeper with networking support. | Java, Socket Programming          |
+| [ToiletMergency](https://github.com/RaafatOS/ToiletMergency)       | Android app to locate public toilets via Google Maps API.             | Kotlin, Android SDK, REST API      |
+| [ToiletMergency API](https://github.com/RaafatOS/ToiletMergencyAPI) | Backend service for ToiletMergency with location search endpoints.     | TypeScript, Node.js, Express       |
+| [AI-Agent-base](https://github.com/RaafatOS/AI-Agent-base)         | Foundation for building custom AI agents from scratch.                | Python, OpenAI API                  |
+| [Web Scraping](https://github.com/RaafatOS/Web-scraping)           | Data collection scripts based on "*Web Scraping with Python*" book. | Python, BeautifulSoup, Jupyter     |
+
+> **🔗 View all projects**: [GitHub Repositories](https://github.com/RaafatOS?tab=repositories)
+
+---
+
+## 💼 Experience
+
+### ML Engineering Intern at Infineon (Vienna, Austria)
+*Jan 2024 – Aug 2024*
+- Developed an AI-based anomaly detection tool for semiconductor manufacturing.
+- Implemented data pipelines and model deployment using Python and Azure ML.
+- Collaborated with cross-functional teams to integrate the solution into production.
+
+---
+
+## 🎓 Certifications
+
+- **AWS Certified Cloud Practitioner** (in progress)
+- DataCamp: Machine Learning, Data Science, Data engineering and MLOps courses
+- DataCamp: Data scientist certification
+- DataCamp: AI engineer for data scientists certification
+
+---
+
+## 📈 GitHub Stats
+
+![Raafat's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaafatOS&show_icons=true&theme=default)
+
+---
+
+## 📫 Connect with Me
+
+- LinkedIn: [RaafatOsman](https://www.linkedin.com/in/raafatosman)
+- Email: raafat.osman@example.com
+
+---
+
+> **Fun Fact:** I eat like a 90kg person, look like 60kg, but actually weigh 70kg! 😂
