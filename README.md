@@ -72,7 +72,7 @@ Outside of tech, I enjoy:
 ## 📫 Connect with Me
 
 - LinkedIn: [RaafatOsman](https://www.linkedin.com/in/raafatosman)
-- Email: raafat.osman@example.com
+- Email: raafatosman383@gmail.com
 
 ---
 
