@@ -2,13 +2,13 @@
 
 **Software Engineer | Machine Learning Engineer | Data Scientist**
 
-📍 Marseille, France | 🇱🇧 Lebanese origins
+📍 Paris, France | 🇱🇧 Lebanese origins
 
 ---
 
 ## 📖 About Me
 
-I’m a passionate engineer with experience in software development, machine learning, data science, and cloud technologies. I love exploring new tools and frameworks, building real-world applications, and sharing knowledge.
+I’m a passionate engineer with experience in machine learning, data science, software development, and cloud technologies. I love exploring new tools and frameworks, building real-world applications, and sharing knowledge.
 
 Outside of tech, I enjoy:
 - ⚽ Football
