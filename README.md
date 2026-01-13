@@ -82,6 +82,7 @@ Outside of tech, I enjoy:
 
 - LinkedIn: [RaafatOsman](https://www.linkedin.com/in/raafatosman)
 - Email: raafatosman383@gmail.com
+- Datacamp portfolio: https://www.datacamp.com/portfolio/raafatosman383
 
 ---
 
