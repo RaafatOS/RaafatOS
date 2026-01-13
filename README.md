@@ -46,8 +46,16 @@ Outside of tech, I enjoy:
 
 ## 💼 Experience
 
-### ML Engineering Intern at Infineon (Vienna, Austria)
-*Jan 2024 – Aug 2024*
+### ML Engineer at Telecom Sud-Paris (Ile de france, France)
+*Sept 2025 – Present*
+- Working on PANDORA, a European research project applying AI to industrial IoT for top companies (SIEMENS, THALES, PHILIPS ...).
+- Designed and trained autoencoder-based models for unsupervised outlier detection on large-scale, high-dimensional industrial sensor data.
+- Extended the autoencoder architecture with a memory-augmented component to improve representation quality and anomaly detection accuracy.
+- Implemented federated learning to enable decentralized model training across multiple edge devices, aggregating model weights while preserving data privacy.
+- Maintained a clean, modular ML codebase following reproducible ML and clean code practices (experiments, model versions, documentation).
+
+### ML Engineering Intern at Infineon (Villach, Austria)
+*Apr 2024 – Dec 2024*
 - Developed an AI-based anomaly detection tool for semiconductor manufacturing.
 - Implemented data pipelines and model deployment using Python and Azure ML.
 - Collaborated with cross-functional teams to integrate the solution into production.
@@ -60,6 +68,7 @@ Outside of tech, I enjoy:
 - DataCamp: Machine Learning, Data Science, Data engineering and MLOps courses
 - DataCamp: Data scientist certification
 - DataCamp: AI engineer for data scientists certification
+- Cisco: CCNA
 
 ---
 
@@ -76,4 +85,4 @@ Outside of tech, I enjoy:
 
 ---
 
-> **Fun Fact:** I eat like a 90kg person, look like 60kg, but actually weigh 70kg! 😂
+> **Fun Fact:** I eat like a 90kg person, look like 60kg, but actually weigh 80kg! 😂
