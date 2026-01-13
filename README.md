@@ -21,7 +21,7 @@ Outside of tech, I enjoy:
 
 | Domain               | Tools & Technologies                                    |
 |----------------------|---------------------------------------------------------|
-| **Languages**        | C#, .NET, Python, Java, TypeScript, Kotlin              |
+| **Languages**        | Python, Java, TypeScript, Kotlin, C#, .NET              |
 | **Web & Backend**    | Nest.js, Node.js, Express, HTML, CSS, REST APIs         |
 | **Mobile**           | Android (Kotlin), Android Studio                        |
 | **Machine Learning** | scikit-learn, TensorFlow, PyTorch, Pandas, NumPy        |
@@ -34,11 +34,14 @@ Outside of tech, I enjoy:
 
 | Project                  | Description                                                          | Tech Stack                         |
 |--------------------------|----------------------------------------------------------------------|------------------------------------|
+| [Job market RAG](https://github.com/RaafatOS/job-market-rag)       | RAG system that scrapes from job posting platform                  | Python, Langchain, beautifulsoup  |
+| [Complete scraping](https://github.com/RaafatOS/complete_scraping) | A to Z scraping tool applied for myfootdr_clinics                  | Python, Jupyter notebook, beautifulsoup |
+| [Cholestrol analysis](https://github.com/RaafatOS/cholesterol_analysis) | analysis of cholesterol levels of men                         | Python. Jupyter notebook             |
+| [AI-Agent-base](https://github.com/RaafatOS/AI-Agent-base)         | Foundation for building custom AI agents from scratch.                | Python, OpenAI API                  |
+| [Web Scraping](https://github.com/RaafatOS/Web-scraping)           | Data collection scripts based on "*Web Scraping with Python*" book. | Python, BeautifulSoup, Jupyter     |
 | [Minesweeper](https://github.com/RaafatOS/Minesweeper)             | Multiplayer Java implementation of Minesweeper with networking support. | Java, Socket Programming          |
 | [ToiletMergency](https://github.com/RaafatOS/ToiletMergency)       | Android app to locate public toilets via Google Maps API.             | Kotlin, Android SDK, REST API      |
 | [ToiletMergency API](https://github.com/RaafatOS/ToiletMergencyAPI) | Backend service for ToiletMergency with location search endpoints.     | TypeScript, Node.js, Express       |
-| [AI-Agent-base](https://github.com/RaafatOS/AI-Agent-base)         | Foundation for building custom AI agents from scratch.                | Python, OpenAI API                  |
-| [Web Scraping](https://github.com/RaafatOS/Web-scraping)           | Data collection scripts based on "*Web Scraping with Python*" book. | Python, BeautifulSoup, Jupyter     |
 
 > **🔗 View all projects**: [GitHub Repositories](https://github.com/RaafatOS?tab=repositories)
 
